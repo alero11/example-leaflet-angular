@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-68.156434, -16.506739]
+            },
+            "properties": {
+                "name": "La Paz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-67.113954, -17.963156]
+            },
+            "properties": {
+                "name": "La Paz"
+            }
+        }
+    ]
+}
